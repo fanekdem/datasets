@@ -1,0 +1,68 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "marketplace": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "customer_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "review_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "product_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "product_parent": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "product_title": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "product_category": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "star_rating": {
+      "dtype": "int32",
+      "_type": "Value"
+    },
+    "helpful_votes": {
+      "dtype": "int32",
+      "_type": "Value"
+    },
+    "total_votes": {
+      "dtype": "int32",
+      "_type": "Value"
+    },
+    "vine": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "verified_purchase": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "review_headline": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "review_body": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "review_date": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
